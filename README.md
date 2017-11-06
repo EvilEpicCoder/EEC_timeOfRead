@@ -16,5 +16,5 @@
   * Time consumption
   * What I learned
 
-  Version: `0.1a`
-  Date: `4.11.2017`
+  Version: `0.3a`
+  Date: `6.11.2017`
